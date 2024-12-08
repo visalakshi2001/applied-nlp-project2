@@ -1,0 +1,7 @@
+bleurt @ https://github.com/google/BIG-bench/raw/refs/heads/main/bleurt/bleurt-b610120347ef22b494b6d69b4316e303f5932516.zip
+bigbench @ git+https://github.com/visalakshi2001/BIG-bench.git
+torch
+httpx==0.27.0
+datasets==2.21.0
+cohere==5.13.3
+openai
